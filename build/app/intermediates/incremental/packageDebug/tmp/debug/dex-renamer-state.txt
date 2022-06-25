@@ -1,4 +1,4 @@
-#Sat Jun 25 14:24:02 IST 2022
-base.0=/home/vikash/AllOodlesProject/Shimmer_Effect_Flutter_Getx/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Sat Jun 25 16:59:41 IST 2022
+base.0=/home/vikash/AllOodlesProject/Flutter_Shimmer_Effect_With_Getx/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

@@ -1,7 +1,7 @@
 import 'package:get/get_rx/get_rx.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 import 'package:shimmer_effect_flutter_getx/appmodule/api_service.dart';
-import 'package:shimmer_effect_flutter_getx/sampledatamodule/module/SampleData.dart';
+import '../model/SampleData.dart';
 
 class SampleDataController extends GetxController {
   var isLoading = false.obs;
