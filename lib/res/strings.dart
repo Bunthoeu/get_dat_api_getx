@@ -1,0 +1,1 @@
+const String flutterShimmerEffectWithGetx = "Flutter Shimmer Effect With Getx";
