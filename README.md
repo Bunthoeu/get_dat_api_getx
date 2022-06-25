@@ -1,10 +1,13 @@
-# shimmer_effect_flutter_getx
+# Flutter Shimmer Effect With Getx
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/59360430/175767689-3901bbad-cdf5-4a93-a55c-3e5a10daf866.gif)
+
 
 A few resources to get you started if this is your first Flutter project:
 
