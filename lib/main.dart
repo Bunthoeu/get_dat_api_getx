@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/route_manager.dart';
 import 'package:shimmer/shimmer.dart';
 import 'package:shimmer_effect_flutter_getx/res/strings.dart';
-import 'package:shimmer_effect_flutter_getx/sampledatamodule/views/SampleDataListView.dart';
+import 'package:shimmer_effect_flutter_getx/screen/SampleDataListView.dart';
 
 void main() {
   runApp(const MyApp());

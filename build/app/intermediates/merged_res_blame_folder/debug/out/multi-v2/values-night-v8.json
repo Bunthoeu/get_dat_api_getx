@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/vikash/AllOodlesProject/Flutter_Shimmer_Effect_With_Getx/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/plans/Documents/flutter/Testing/search_id_bloc/Flutter_Shimmer_Effect_With_Getx/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/vikash/AllOodlesProject/Flutter_Shimmer_Effect_With_Getx/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/plans/Documents/flutter/Testing/search_id_bloc/Flutter_Shimmer_Effect_With_Getx/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
